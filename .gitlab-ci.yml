@@ -1,4 +1,4 @@
-image: hosttoday/ht-docker-node:latest
+image: hosttoday/ht-docker-node:npmts
 
 stages:
 - test
