@@ -7,6 +7,7 @@ browserify and other goodies for gulp
 [![bitHound Dependencies](https://www.bithound.io/github/pushrocks/gulp-browser/badges/dependencies.svg)](https://www.bithound.io/github/pushrocks/gulp-browser/master/dependencies/npm)
 [![bitHound Code](https://www.bithound.io/github/pushrocks/gulp-browser/badges/code.svg)](https://www.bithound.io/github/pushrocks/gulp-browser)
 [![codecov.io](https://codecov.io/github/pushrocks/gulp-browser/coverage.svg?branch=master)](https://codecov.io/github/pushrocks/gulp-browser?branch=master)
+[![node](https://img.shields.io/badge/node-6.x.x-blue.svg)](https://nodejs.org/dist/latest-v6.x/docs/api/)
 
 ### Usage
 gulp-browser is meant to be easy:
