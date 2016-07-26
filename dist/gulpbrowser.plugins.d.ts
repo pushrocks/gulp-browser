@@ -1,5 +1,5 @@
 import "typings-global";
-export declare let beautylog: any;
-export declare let through: any;
-export declare let path: any;
-export declare let browserify: any;
+export import beautylog = require("beautylog");
+export import through2 = require("through2");
+export import path = require("path");
+export import browserify = require("browserify");

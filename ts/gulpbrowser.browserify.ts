@@ -1,4 +1,3 @@
-import "typings-global";
 import plugins = require("./gulpbrowser.plugins");
 
 
@@ -43,7 +42,7 @@ let browserify =  function(transforms = []) {
         cb();
     } // no need to clean up after ourselves
 
-    return plugins.through.obj(forEach,atEnd); // this is the through object that gets returned by gulpBrowser.browserify();
+    return plugins.through2.obj(forEach,atEnd); // this is the through object that gets returned by gulpBrowser.browserify();
  };
 
 export = browserify;

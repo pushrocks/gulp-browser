@@ -1,3 +1,3 @@
-import "typings-global";
-declare let browserify: (transforms?: any[]) => any;
+/// <reference types="node" />
+declare let browserify: (transforms?: any[]) => NodeJS.ReadWriteStream;
 export = browserify;
