@@ -1,14 +1,7 @@
 node_modules/
-.settings/
-.idea/
 npm-debug.log
-
-ts/*.js
-ts/*.js.map
-ts/typings/
-
 test/result/
-
 coverage/
-
 docs/
+pages/
+public

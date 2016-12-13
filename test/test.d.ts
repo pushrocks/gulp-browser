@@ -1,2 +1,1 @@
-import "typings-test";
-import "should";
+import 'typings-test';
