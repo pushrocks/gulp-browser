@@ -17,7 +17,10 @@
   },
   "keywords": [
     "gulpplugin",
-    "browserify"
+    "browserify",
+    "browser",
+    "TypeScript",
+    "typed"
   ],
   "author": "Smart Coordination GmbH <office@push.rocks> (https://push.rocks)",
   "license": "MIT",
