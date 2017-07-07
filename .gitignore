@@ -2,6 +2,5 @@ node_modules/
 npm-debug.log
 test/result/
 coverage/
-docs/
 pages/
 public
