@@ -1,1 +1,1 @@
-export import browserify = require("./gulpbrowser.browserify");
+export import browserify = require('./gulpbrowser.browserify');
