@@ -1,6 +1,6 @@
 {
   "npmci": {
-    "npmGlobalpmTools": [
+    "npmGlobalTools": [
       "npmts"
     ]
   }
