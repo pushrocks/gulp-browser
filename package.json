@@ -34,7 +34,7 @@
     "@types/through2": "^2.0.33",
     "browserify": "^16.1.1",
     "q": "^1.5.0",
-    "smartq": "^1.1.6",
+    "smartq": "^1.1.8",
     "through2": "^2.0.3"
   },
   "devDependencies": {

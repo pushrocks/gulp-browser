@@ -2768,6 +2768,12 @@ smartq@^1.1.1, smartq@^1.1.6:
     typings-global "^1.0.19"
     util.promisify "^1.0.0"
 
+smartq@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/smartq/-/smartq-1.1.8.tgz#7e2f3b9739eb5d6c9f45f2a86e339ec81e49e8d2"
+  dependencies:
+    util.promisify "^1.0.0"
+
 snapdragon-node@^2.0.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/snapdragon-node/-/snapdragon-node-2.1.1.tgz#6c175f86ff14bdb0724563e8f3c1b021a286853b"
