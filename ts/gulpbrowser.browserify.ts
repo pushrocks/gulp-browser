@@ -1,6 +1,6 @@
 import * as stream from 'stream';
 import plugins = require('./gulpbrowser.plugins');
-import * as q from 'q';
+import * as q from 'smartq';
 
 let browserify = function(transforms = []) {
   if (!Array.isArray(transforms)) {
