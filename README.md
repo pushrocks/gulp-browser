@@ -1,17 +1,17 @@
-# @pushrocks/gulp-browserify
+# @pushrocks/gulp-browser
 browserify and other goodies for gulp
 
 ## Availabililty and Links
-* [npmjs.org (npm package)](https://www.npmjs.com/package/@pushrocks/gulp-browserify)
-* [gitlab.com (source)](https://gitlab.com/pushrocks/gulp-browserify)
-* [github.com (source mirror)](https://github.com/pushrocks/gulp-browserify)
-* [docs (typedoc)](https://pushrocks.gitlab.io/gulp-browserify/)
+* [npmjs.org (npm package)](https://www.npmjs.com/package/@pushrocks/gulp-browser)
+* [gitlab.com (source)](https://gitlab.com/pushrocks/gulp-browser)
+* [github.com (source mirror)](https://github.com/pushrocks/gulp-browser)
+* [docs (typedoc)](https://pushrocks.gitlab.io/gulp-browser/)
 
 ## Status for master
-[![build status](https://gitlab.com/pushrocks/gulp-browserify/badges/master/build.svg)](https://gitlab.com/pushrocks/gulp-browserify/commits/master)
-[![coverage report](https://gitlab.com/pushrocks/gulp-browserify/badges/master/coverage.svg)](https://gitlab.com/pushrocks/gulp-browserify/commits/master)
-[![npm downloads per month](https://img.shields.io/npm/dm/@pushrocks/gulp-browserify.svg)](https://www.npmjs.com/package/@pushrocks/gulp-browserify)
-[![Known Vulnerabilities](https://snyk.io/test/npm/@pushrocks/gulp-browserify/badge.svg)](https://snyk.io/test/npm/@pushrocks/gulp-browserify)
+[![build status](https://gitlab.com/pushrocks/gulp-browser/badges/master/build.svg)](https://gitlab.com/pushrocks/gulp-browser/commits/master)
+[![coverage report](https://gitlab.com/pushrocks/gulp-browser/badges/master/coverage.svg)](https://gitlab.com/pushrocks/gulp-browser/commits/master)
+[![npm downloads per month](https://img.shields.io/npm/dm/@pushrocks/gulp-browser.svg)](https://www.npmjs.com/package/@pushrocks/gulp-browser)
+[![Known Vulnerabilities](https://snyk.io/test/npm/@pushrocks/gulp-browser/badge.svg)](https://snyk.io/test/npm/@pushrocks/gulp-browser)
 [![TypeScript](https://img.shields.io/badge/TypeScript->=%203.x-blue.svg)](https://nodejs.org/dist/latest-v10.x/docs/api/)
 [![node](https://img.shields.io/badge/node->=%2010.x.x-blue.svg)](https://nodejs.org/dist/latest-v10.x/docs/api/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
