@@ -1,6 +1,6 @@
 import * as stream from 'stream';
 import plugins = require('./gulpbrowser.plugins');
-import * as q from 'smartq';
+import * as smartpromise from '@pushrocks/smartpromise';
 
 let browserify = function(transforms = []) {
   if (!Array.isArray(transforms)) {

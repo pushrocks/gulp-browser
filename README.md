@@ -54,7 +54,7 @@ gulp.task('gulpBrowserTest', function() {
 * [Phil Kunz](https://github.com/philkunz)
 * [Steffan Donal](https://github.com/SteffanDonal)
 
-For further information read the linked docs at the top of this README.
+For further information read the linked docs at the top of this readme.
 
 > MIT licensed | **&copy;** [Lossless GmbH](https://lossless.gmbh)
 > | By using this npm module you agree to our [privacy policy](https://lossless.gmbH/privacy.html)
