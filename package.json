@@ -1,6 +1,6 @@
 {
   "name": "@pushrocks/gulp-browser",
-  "version": "3.0.15",
+  "version": "3.0.16",
   "private": false,
   "description": "browserify and other goodies for gulp",
   "main": "dist/index.js",
