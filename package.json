@@ -1,6 +1,7 @@
 {
   "name": "@pushrocks/gulp-browser",
   "version": "3.0.15",
+  "private": false,
   "description": "browserify and other goodies for gulp",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -42,6 +43,5 @@
     "babel-preset-es2015": "^6.24.1",
     "babelify": "^10.0.0",
     "gulp": "^4.0.0"
-  },
-  "private": true
+  }
 }
