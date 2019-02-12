@@ -1,3 +1,17 @@
 {
-    "extends": "tslint-config-standard"
+  "extends": ["tslint:latest", "tslint-config-prettier"],
+  "rules": {
+    "semicolon": [true, "always"],
+    "no-console": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "member-ordering": {
+      "options":{
+        "order": [
+          "static-method"
+        ]
+      }
+    }
+  },
+  "defaultSeverity": "warning"
 }
