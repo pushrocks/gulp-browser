@@ -1,4 +1,14 @@
 {
+  "gitzone": {
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "pushrocks",
+      "gitrepo": "gulp-browser",
+      "shortDescription": "browserify and other goodies for gulp",
+      "npmPackagename": "@pushrocks/gulp-browser",
+      "license": "MIT"
+    }
+  },
   "npmci": {
     "npmGlobalTools": []
   }
